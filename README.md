@@ -1,6 +1,6 @@
 # Presidential-Speech-Unstructured-Data-Analysis
 
-Perform analyses to identify differences in presidential speeches over time.
+Scraped all presidential speeches from online in order to [erform analyses to identify differences in their speeches over time.
 
 Contributors:
   1. Jason Nania
